@@ -1,4 +1,4 @@
-#Jump Ranger
+# Jump Ranger
 This is [jump][] plug-in that integrates [ranger][] with [jump][] and exposes
 the `:j` helper to [ranger][].
 
